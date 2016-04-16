@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="757fb013-d6f2-495e-bc0d-39cb88914eef" name="Default" comment="" />
+    <list default="true" id="757fb013-d6f2-495e-bc0d-39cb88914eef" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/layouts/base/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/layouts/base/index.blade.php" />
+    </list>
     <ignored path="alexbugarin.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -21,14 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Work.vue" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/assets/js/components/Work.vue">
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/base/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="592">
-              <caret line="67" column="44" selection-start-line="67" selection-start-column="44" selection-end-line="67" selection-end-column="44" />
-              <folding>
-                <element signature="e#4510#4571#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="234">
+              <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -81,7 +81,6 @@
         <option value="$PROJECT_DIR$/resources/assets/js/components/About.vue" />
         <option value="$PROJECT_DIR$/resources/assets/sass/libs/imagehover.min.scss" />
         <option value="$PROJECT_DIR$/resources/assets/js/about-animations.js" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/base/index.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/base/partials/head.blade.php" />
         <option value="$PROJECT_DIR$/resources/assets/sass/libs/animate.min.scss" />
         <option value="$PROJECT_DIR$/resources/assets/sass/libs.scss" />
@@ -113,6 +112,7 @@
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/resources/assets/js/components/work/Project.vue" />
         <option value="$PROJECT_DIR$/resources/assets/js/components/Work.vue" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/base/index.blade.php" />
       </list>
     </option>
   </component>
@@ -243,6 +243,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="about" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexbugarin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexbugarin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -454,12 +480,12 @@
       <updated>1458580775562</updated>
       <workItem from="1459960970733" duration="602000" />
       <workItem from="1460744613190" duration="2111000" />
-      <workItem from="1460784044658" duration="3870000" />
+      <workItem from="1460784044658" duration="4169000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6583000" />
+    <option name="totallyTimeSpent" value="6882000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
@@ -638,13 +664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/base/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="154" column="36" selection-start-line="154" selection-start-column="36" selection-end-line="154" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/assets/js/libs/materialize.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -705,13 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/assets/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -885,8 +897,48 @@
         <state relative-caret-position="592">
           <caret line="67" column="44" selection-start-line="67" selection-start-column="44" selection-end-line="67" selection-end-column="44" />
           <folding>
-            <element signature="e#4510#4571#0" expanded="true" />
+            <marker date="1460787530107" expanded="true" signature="0:4498" placeholder="&lt;xml/&gt;" />
+            <marker date="1460787530107" expanded="true" signature="15:3566" placeholder="&lt;xml/&gt;" />
+            <marker date="1460787530107" expanded="true" signature="68:3555" placeholder="&lt;xml/&gt;" />
+            <marker date="1460787530107" expanded="true" signature="98:3539" placeholder="&lt;xml/&gt;" />
+            <marker date="1460787530107" expanded="true" signature="139:3519" placeholder="&lt;xml/&gt;" />
+            <marker date="1460787530107" expanded="true" signature="182:1694" placeholder="&lt;xml/&gt;" />
+            <marker date="1460787530107" expanded="true" signature="224:1667" placeholder="&lt;xml/&gt;" />
+            <marker date="1460787530107" expanded="true" signature="309:1636" placeholder="&lt;xml/&gt;" />
+            <marker date="1460787530107" expanded="true" signature="464:1019" placeholder="&lt;xml/&gt;" />
+            <marker date="1460787530107" expanded="true" signature="1052:1601" placeholder="&lt;xml/&gt;" />
+            <marker date="1460787530107" expanded="true" signature="1716:1936" placeholder="&lt;xml/&gt;" />
+            <marker date="1460787530107" expanded="true" signature="1758:1909" placeholder="&lt;xml/&gt;" />
+            <marker date="1460787530107" expanded="true" signature="1958:3495" placeholder="&lt;xml/&gt;" />
+            <marker date="1460787530107" expanded="true" signature="2006:3468" placeholder="&lt;xml/&gt;" />
+            <marker date="1460787530107" expanded="true" signature="2110:3437" placeholder="&lt;xml/&gt;" />
+            <marker date="1460787530107" expanded="true" signature="2265:2820" placeholder="&lt;xml/&gt;" />
+            <marker date="1460787530107" expanded="true" signature="2853:3402" placeholder="&lt;xml/&gt;" />
+            <marker date="1460787530107" expanded="true" signature="3605:4022" placeholder="&lt;xml/&gt;" />
+            <marker date="1460787530107" expanded="true" signature="4027:4398" placeholder="&lt;xml/&gt;" />
+            <marker date="1460787530107" expanded="true" signature="4517:4734" placeholder="..." />
+            <marker date="1460787530107" expanded="true" signature="4751:4927" placeholder="{...}" />
+            <marker date="1460787530107" expanded="true" signature="4769:4925" placeholder="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+          <folding>
+            <marker date="1458842161243" expanded="false" signature="69:307" placeholder="..." />
+            <marker date="1458842161243" expanded="true" signature="317:406" placeholder="{&quot;el&quot;: 'body'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/base/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+          <folding />
         </state>
       </provider>
     </entry>
